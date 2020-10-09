@@ -18,5 +18,5 @@ From the research we have conducted the following assumptions can be made:
 
 ## Further Recommendations 
 By employing the COUNT () query in SQL, it is determined that a total of 90,398 positions will need to be filled as the “silver tsunami” begins to make an impact on Pewlett-Hackard. This leaves an extremely large amount of positions vacant and not enough mentees within the company to replace all the retired employees therefore, it is my prerogative that additional hiring will need to be completed in addition to the mentorship program. This can be further evaluated when performing the same COUNT () query on our “mentorship_eligibility” database. The result indicates that only a total of 1,940 employees are eligible for the mentorship program which leaves a considerable amount of vacancies at Pewlett-Hackard that will need to be addressed in an additional manner. Although, there will be enough qualified employees to mentor the eligible staff, this will not be enough to sustain the “silver tsunami”. 
-![unique_count:](./data/unique_count.png)
-![mentorship_count:](./data/mentorship_count.png)
+![unique_count:](./unique_count.png)
+![mentorship_count:](./mentorship_count.png)
